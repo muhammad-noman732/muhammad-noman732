@@ -12,26 +12,12 @@
 
 ## 💫 About Me
 
-```javascript
-const MuhammadNoman = {
-  role:         "Full-Stack Web Developer",
-  education:    "BSCS 🎓",
-  location:     "Pakistan 🇵🇰",
-  openTo:       ["Full-Time Roles", "Freelance Projects", "Collaborations"],
-  currentFocus: "Next.js & Scalable Server Architectures",
-  email:        "noman.dev200@gmail.com",
-  goal:         "Turning ideas into impactful products through clean, scalable code."
-};
-```
-
-- 🔭 **Open for bright ideas** — I love turning concepts into fully functional products
-- 👯 **Looking to collaborate** on Server Architectures & scalable web systems
-- 🌱 **Currently leveling up** in **Next.js**, advanced TypeScript & system design
-- 💬 **Ask me about** `#ideas` `#web-development` `#leadership` `#geoeconomics`
-- 🎯 **Actively seeking** a **Full-Stack Developer** role — final semester of my BSCS degree
-- 📫 **Reach me:** [noman.dev200@gmail.com](mailto:noman.dev200@gmail.com)
-
-> *"I build production-ready web and mobile applications with a strong focus on performance, real-time capabilities, and clean architecture — from REST APIs to real-time chat systems, I bring full-stack ideas to life."*
+- 🔭 Open for bright ideas — I love turning concepts into fully functional products
+- 👯 Looking to collaborate on Server Architectures & scalable web systems
+- 🌱 Currently hitting on **Next.js** & advanced TypeScript
+- 💬 Ask me about **#ideas**, **#leadership**, **#geoeconomics**
+- 🎯 Actively seeking a **Full-Stack Developer** role
+- 📫 Reach me: [noman.dev200@gmail.com](mailto:noman.dev200@gmail.com)
 
 ---
 
@@ -53,38 +39,25 @@ const MuhammadNoman = {
 
 ## 💻 Tech Stack
 
-**Languages & Core**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
@@ -101,14 +74,6 @@ const MuhammadNoman = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-noman732&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -118,9 +83,7 @@ const MuhammadNoman = {
 ---
 
 <p align="center">
-  <i>"I build production-ready web and mobile applications with clean architecture and a passion for solving real-world problems."</i>
-  <br/><br/>
-  <b>🚀 Final semester BSCS student — actively seeking Full-Stack Developer roles.</b>
+  <i>"Building scalable, impactful software — one commit at a time."</i>
   <br/><br/>
   <b>📫 Let's connect:</b>
   <a href="mailto:noman.dev200@gmail.com">noman.dev200@gmail.com</a> &nbsp;|&nbsp;
